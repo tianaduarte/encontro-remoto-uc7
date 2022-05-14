@@ -1,5 +1,5 @@
-SENAI VERSIONAMENTO
-PRINCIPAIS COMANDOS
+<h2>SENAI VERSIONAMENTO</h2>
+<h5>PRINCIPAIS COMANDOS</h5>
 
 git init - cria repositório na pasta local
 
